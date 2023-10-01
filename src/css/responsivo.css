@@ -45,11 +45,11 @@
 
     .conteudo .logo {
         width: 170px;
-        height: 75px;
+        height: 70px;
     }
 
     .conteudo {
-        top: -30%;
+        top: -10%;
     }
 
     .conteudo .nome-personagem {
@@ -58,7 +58,7 @@
 
     .botoes {
         padding: 20px;
-        top: -20%;
+        top: 2%;
     }
 
     .botoes .botao img {
